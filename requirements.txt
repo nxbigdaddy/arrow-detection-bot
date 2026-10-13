@@ -1,0 +1,5 @@
+numpy>=2.0
+opencv-python>=4.10
+Pillow>=11.0
+torch>=2.0
+ultralytics>=8.3
